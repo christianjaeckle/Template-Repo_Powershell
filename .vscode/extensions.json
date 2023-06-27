@@ -3,6 +3,6 @@
     "recommendations": [
         "ms-vscode.PowerShell",
         "DavidAnson.vscode-markdownlint",
-		"streetsidesoftware.code-spell-checker"
+	"streetsidesoftware.code-spell-checker"
     ]
 }
